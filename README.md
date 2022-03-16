@@ -1,6 +1,6 @@
 # --Python-
-使用python实现&lt;&lt;MATLAB从写代码到算法思想>>
+使用python实现智能优化算法
 先开个坑，日后慢慢完善
 
 
-chapter 2存在问题未解决
+2存在问题未解决
